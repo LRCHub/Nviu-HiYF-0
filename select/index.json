@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "そこに在る、光。",
+  "base_artist": "25時、ナイトコードで。",
+  "createdAt": "2025-12-05T14:27:55.338958Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "そこに在る、光。",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/01_そこに在る、光。_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "そこに在る、光。 (Inst)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/02_そこに在る、光。_(Inst)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "そこに在る、光。",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": false,
+      "path": "select/pl_01_そこに在る、光。_25時、ナイトコードで。.txt"
+    }
+  ]
+}
